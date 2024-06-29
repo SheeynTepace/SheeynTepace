@@ -6,12 +6,25 @@ Welcome to my GitHub profile! I’m a passionate and dedicated. My journey in th
 - 💬 Ask me about Programming and Thesis Capstone 
 - 📫 How to reach me: shanetepace@gmail.com 
 
-[<img src='data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24"><path fill="%23FFFFFF" d="M12 0C5.37 0 0 5.37 0 12c0 5.3 3.438 9.8 8.205 11.387.6.11.82-.258.82-.577v-2.165c-3.338.726-4.033-1.61-4.033-1.61-.546-1.387-1.333-1.756-1.333-1.756-1.09-.746.084-.73.084-.73 1.205.085 1.838 1.236 1.838 1.236 1.07 1.834 2.81 1.304 3.495.997.107-.774.418-1.304.763-1.603-2.665-.303-5.466-1.334-5.466-5.934 0-1.31.468-2.38 1.235-3.22-.124-.303-.535-1.523.117-3.176 0 0 1.007-.323 3.3 1.23a11.451 11.451 0 0 1 3-.403c1.02.005 2.045.138 3 .403 2.292-1.553 3.298-1.23 3.298-1.23.653 1.653.243 2.873.12 3.176.77.84 1.234 1.91 1.234 3.22 0 4.61-2.803 5.625-5.476 5.92.428.37.823 1.102.823 2.222v3.293c0 .323.217.694.825.577C20.565 21.796 24 17.298 24 12 24 5.37 18.63 0 12 0z"/></svg>' alt='github' height='40'>](https://github.com/SheeynTepace)
-[<img src='data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24"><path fill="%23FFFFFF" d="M12 0C5.37 0 0 5.37 0 12c0 5.3 3.438 9.8 8.205 11.387.6.11.82-.258.82-.577v-2.165c-3.338.726-4.033-1.61-4.033-1.61-.546-1.387-1.333-1.756-1.333-1.756-1.09-.746.084-.73.084-.73 1.205.085 1.838 1.236 1.838 1.236 1.07 1.834 2.81 1.304 3.495.997.107-.774.418-1.304.763-1.603-2.665-.303-5.466-1.334-5.466-5.934 0-1.31.468-2.38 1.235-3.22-.124-.303-.535-1.523.117-3.176 0 0 1.007-.323 3.3 1.23a11.451 11.451 0 0 1 3-.403c1.02.005 2.045.138 3 .403 2.292-1.553 3.298-1.23 3.298-1.23.653 1.653.243 2.873.12 3.176.77.84 1.234 1.91 1.234 3.22 0 4.61-2.803 5.625-5.476 5.92.428.37.823 1.102.823 2.222v3.293c0 .323.217.694.825.577C20.565 21.796 24 17.298 24 12 24 5.37 18.63 0 12 0z"/></svg>' alt='linkedin' height='40'>](https://www.linkedin.com/in/kristina-shane-tepace-31011725b/)
-[<img src='data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24"><path fill="%23FFFFFF" d="M12 0C5.37 0 0 5.37 0 12c0 5.3 3.438 9.8 8.205 11.387.6.11.82-.258.82-.577v-2.165c-3.338.726-4.033-1.61-4.033-1.61-.546-1.387-1.333-1.756-1.333-1.756-1.09-.746.084-.73.084-.73 1.205.085 1.838 1.236 1.838 1.236 1.07 1.834 2.81 1.304 3.495.997.107-.774.418-1.304.763-1.603-2.665-.303-5.466-1.334-5.466-5.934 0-1.31.468-2.38 1.235-3.22-.124-.303-.535-1.523.117-3.176 0 0 1.007-.323 3.3 1.23a11.451 11.451 0 0 1 3-.403c1.02.005 2.045.138 3 .403 2.292-1.553 3.298-1.23 3.298-1.23.653 1.653.243 2.873.12 3.176.77.84 1.234 1.91 1.234 3.22 0 4.61-2.803 5.625-5.476 5.92.428.37.823 1.102.823 2.222v3.293c0 .323.217.694.825.577C20.565 21.796 24 17.298 24 12 24 5.37 18.63 0 12 0z"/></svg>' alt='facebook' height='40'>](https://www.facebook.com/sheeeyntepace/)
-[<img src='data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24"><path fill="%23FFFFFF" d="M12 0C5.37 0 0 5.37 0 12c0 5.3 3.438 9.8 8.205 11.387.6.11.82-.258.82-.577v-2.165c-3.338.726-4.033-1.61-4.033-1.61-.546-1.387-1.333-1.756-1.333-1.756-1.09-.746.084-.73.084-.73 1.205.085 1.838 1.236 1.838 1.236 1.07 1.834 2.81 1.304 3.495.997.107-.774.418-1.304.763-1.603-2.665-.303-5.466-1.334-5.466-5.934 0-1.31.468-2.38 1.235-3.22-.124-.303-.535-1.523.117-3.176 0 0 1.007-.323 3.3 1.23a11.451 11.451 0 0 1 3-.403c1.02.005 2.045.138 3 .403 2.292-1.553 3.298-1.23 3.298-1.23.653 1.653.243 2.873.12 3.176.77.84 1.234 1.91 1.234 3.22 0 4.61-2.803 5.625-5.476 5.92.428.37.823 1.102.823 2.222v3.293c0 .323.217.694.825.577C20.565 21.796 24 17.298 24 12 24 5.37 18.63 0 12 0z"/></svg>' alt='instagram' height='40'>](https://www.instagram.com/sheeyn_tepace/)
-[<img src='data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24"><path fill="%23FFFFFF" d="M12 0C5.37 0 0 5.37 0 12c0 5.3 3.438 9.8 8.205 11.387.6.11.82-.258.82-.577v-2.165c-3.338.726-4.033-1.61-4.033-1.61-.546-1.387-1.333-1.756-1.333-1.756-1.09-.746.084-.73.084-.73 1.205.085 1.838 1.236 1.838 1.236 1.07 1.834 2.81 1.304 3.495.997.107-.774.418-1.304.763-1.603-2.665-.303-5.466-1.334-5.466-5.934 0-1.31.468-2.38 1.235-3.22-.124-.303-.535-1.523.117-3.176 0 0 1.007-.323 3.3 1.23a11.451 11.451 0 0 1 3-.403c1.02.005 2.045.138 3 .403 2.292-1.553 3.298-1.23 3.298-1.23.653 1.653.243 2.873.12 3.176.77.84 1.234 1.91 1.234 3.22 0 4.61-2.803 5.625-5.476 5.92.428.37.823 1.102.823 2.222v3.293c0 .323.217.694.825.577C20.565 21.796 24 17.298 24 12 24 5.37 18.63 0 12 0z"/></svg>' alt='tiktok' height='40'>](https://www.tiktok.com/@sheeyntepace)
+
+ Skills & Expertise:
+ - Programming Languages : C#, Java, Python, JS and PHP
+ - Frontend Development : ReactJS, HTML, CSS and Bootstrap
+ - Backend Development : NodeJS and ExpressJS
+ - Database : MySQL and PostgreSQL
+ - Frameworks : Codeigniter 3
+ - Softwares : Adobe Illustrator, Photoshop, Figma, Postman,Visual Studio Code, Xampp, etc.
 
 
+💼 Professional Experience:
+ - Software Developer Intern at Toyota Marilao
+ - Freelance experience in website development, graphic design, and virtual assistance
 
 
+🌟 Notable Projects:
+ - Community Tax Certificate System: Streamlined and automated the process of issuing community tax certificates
+ - Medical Eye Record Management Web App: An application to manage patient records for eye clinics efficiently.
+
+
+🌱 Always Learning:
+I believe in the power of knowledge and strive to keep myself updated with the latest technologies and best practices in the industry. I’m always open to new challenges and opportunities to grow as a developer
