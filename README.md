@@ -6,6 +6,16 @@ Welcome to my GitHub profile! I’m a passionate and dedicated. My journey in th
 - 💬 Ask me about Programming and Thesis Capstone 
 - 📫 How to reach me: shanetepace@gmail.com 
 
+# 💼 Professional Experience:
+
+- **Software Developer Intern** at Toyota Marilao
+- **Freelance Experience** in website development, graphic design, and virtual assistance
+
+# 🌟 Notable Projects:
+
+- **Community Tax Certificate System:** Streamlined and automated the process of issuing community tax certificates
+- **Medical Eye Record Management Web App:** An application to manage patient records for eye clinics efficiently
+
 # 🚀 Skills & Expertise:
 
 - **Programming Languages:** ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -20,16 +30,6 @@ Welcome to my GitHub profile! I’m a passionate and dedicated. My journey in th
 
 - **Software:** ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
-
-# 💼 Professional Experience:
-
-- **Software Developer Intern** at Toyota Marilao
-- **Freelance Experience** in website development, graphic design, and virtual assistance
-
-# 🌟 Notable Projects:
-
-- **Community Tax Certificate System:** Streamlined and automated the process of issuing community tax certificates
-- **Medical Eye Record Management Web App:** An application to manage patient records for eye clinics efficiently
 
 # 🌱 Always Learning:
 
