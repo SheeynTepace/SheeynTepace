@@ -2,9 +2,9 @@
 
 Welcome to my GitHub profile! I’m a passionate and dedicated. My journey in the tech world is fueled by my love for coding, problem-solving, and continuous learning.
 
-- 🔭 I’m currently working on this page. 
-- 💬 Ask me about Programming and Thesis Capstone 
-- 📫 How to reach me: shanetepace@gmail.com 
+# 💬 **Ask me about Programming and Thesis Capstone**
+
+# 📫 **How to reach me: shanetepace@gmail.com** 
 
 # 💼 Professional Experience:
 
