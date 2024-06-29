@@ -6,25 +6,25 @@ Welcome to my GitHub profile! I’m a passionate and dedicated. My journey in th
 - 💬 Ask me about Programming and Thesis Capstone 
 - 📫 How to reach me: shanetepace@gmail.com 
 
+# 🚀 Skills & Expertise:
 
- Skills & Expertise:
- - Programming Languages : C#, Java, Python, JS and PHP
- - Frontend Development : ReactJS, HTML, CSS and Bootstrap
- - Backend Development : NodeJS and ExpressJS
- - Database : MySQL and PostgreSQL
- - Frameworks : Codeigniter 3
- - Softwares : Adobe Illustrator, Photoshop, Figma, Postman,Visual Studio Code, Xampp, etc.
+- **Programming Languages:** C#, Java, Python, JavaScript, PHP
+- **Frontend Development:** ReactJS, HTML, CSS, Bootstrap
+- **Backend Development:** NodeJS, ExpressJS
+- **Database:** MySQL, PostgreSQL
+- **Frameworks:** CodeIgniter 3
+- **Software:** Adobe Illustrator, Photoshop, Figma, Postman, Visual Studio Code, XAMPP, etc.
 
+# 💼 Professional Experience:
 
-💼 Professional Experience:
- - Software Developer Intern at Toyota Marilao
- - Freelance experience in website development, graphic design, and virtual assistance
+- **Software Developer Intern** at Toyota Marilao
+- **Freelance Experience** in website development, graphic design, and virtual assistance
 
+# 🌟 Notable Projects:
 
-🌟 Notable Projects:
- - Community Tax Certificate System: Streamlined and automated the process of issuing community tax certificates
- - Medical Eye Record Management Web App: An application to manage patient records for eye clinics efficiently.
+- **Community Tax Certificate System:** Streamlined and automated the process of issuing community tax certificates
+- **Medical Eye Record Management Web App:** An application to manage patient records for eye clinics efficiently
 
+# 🌱 Always Learning:
 
-🌱 Always Learning:
-I believe in the power of knowledge and strive to keep myself updated with the latest technologies and best practices in the industry. I’m always open to new challenges and opportunities to grow as a developer
+I believe in the power of knowledge and strive to keep myself updated with the latest technologies and best practices in the industry. I’m always open to new challenges and opportunities to grow as a developer.
